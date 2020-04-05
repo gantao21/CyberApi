@@ -36,7 +36,7 @@ const alertContent = () => {
 let AppRoute = {
   home: {
     path: '/',
-    component: Home
+    component: Login
   },
   group: {
     path: '/group',
